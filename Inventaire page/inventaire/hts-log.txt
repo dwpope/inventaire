@@ -1,0 +1,15 @@
+HTTrack3.49-2 launched on Mon, 02 Dec 2024 22:37:32 at https://inventaireparis.com/en-ww/collections/tirages-dart/products/print-steve-scott-blue-pompidou
+(winhttrack https://inventaireparis.com/en-ww/collections/tirages-dart/products/print-steve-scott-blue-pompidou -O "https://inventaireparis.com/en-ww/collections/tirages-dart/products/print-steve-scott-blue-pompidou/inventaire" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:37:38	Error: 	"Not Found" (404) at link https://inventaireparis.com/en-ww/collections/tirages-dart/products/MabryPro-Regular.svg (from https://inventaireparis.com/en-ww/collections/tirages-dart/products/print-steve-scott-blue-pompidou)
+22:37:38	Error: 	"Not Found" (404) at link https://inventaireparis.com/en-ww/collections/tirages-dart/products/modules/chunk.common_Ckk3SCTm.esm.js (from https://inventaireparis.com/en-ww/collections/tirages-dart/products/print-steve-scott-blue-pompidou)
+22:37:38	Error: 	"Not Found" (404) at link https://inventaireparis.com/en-ww/collections/tirages-dart/products/modules/client.login-button_PyB0yoLG.en.esm.js (from https://inventaireparis.com/en-ww/collections/tirages-dart/products/print-steve-scott-blue-pompidou)
+22:37:38	Error: 	"Not Found" (404) at link https://inventaireparis.com/en-ww/collections/tirages-dart/products/POST (from https://inventaireparis.com/en-ww/collections/tirages-dart/products/print-steve-scott-blue-pompidou)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 seconds : 6 links scanned, 1 files written (229780 bytes overall) [81709 bytes received at 13618 bytes/sec], 361138 bytes transferred using HTTP compression in 6 files, ratio 18%, 3.0 requests per connection
+(4 errors, 0 warnings, 0 messages)

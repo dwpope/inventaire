@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+inventaireparis.com	TRUE	/en-ww	FALSE	1999999999	localization	GB
+inventaireparis.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22GBENG%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%2C%22consent_id%22%3A%2281D0AD1D-0f82-4AF9-ae7e-45f2eb928577%22%7D
+inventaireparis.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fen-ww%2Fcollections%2Ftirages-dart%2Fproducts%2Fprint-steve-scott-blue-pompidou
+inventaireparis.com	TRUE	/	FALSE	1999999999	localization	FR
+inventaireparis.com	TRUE	/	FALSE	1999999999	keep_alive	2266b85c-1219-4679-a5e1-8163171cb971
+inventaireparis.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
+inventaireparis.com	TRUE	/	FALSE	1999999999	_shopify_y	73050b3b-0e7b-4cf4-bd3a-0e455a3c6d50
+inventaireparis.com	TRUE	/	FALSE	1999999999	_shopify_s	e8c28907-1c13-436a-a16e-4a2ac86ddd74
+inventaireparis.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
